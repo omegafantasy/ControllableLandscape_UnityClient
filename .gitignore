@@ -1,0 +1,9 @@
+Library
+Logs
+Save
+Temp
+Build
+Assets/StreamingAssets*
+Assets/SceneGen/Scene_Garden*
+Assets/SceneGen/Mat_Garden*
+Assets/SceneGen/Image_Garden*
